@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 """
 @title Intent Factory
 @notice Factory contract for deploying Intent proxies using ERC-1167 minimal proxy pattern

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 """
 @title Intent Signal
 @notice Contract for broadcasting intent fill signals
@@ -7,6 +9,8 @@
      Relayers who have whitelisted the gateway contract can then monitor these signals
      and execute the corresponding intents on other chains.
      All intent relayers actively monitor this contract for new intent signals.
+@author Ultrasound Labs
+@custom:security contact@ultrasoundlabs.org
 """
 
 event Signal:

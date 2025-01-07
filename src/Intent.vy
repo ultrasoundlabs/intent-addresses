@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 """
 @title Intent Contract
 @notice A reusable intent implementation for ERC-1167 minimal proxies
